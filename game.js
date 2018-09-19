@@ -1,0 +1,1 @@
+alert ("kies de juiste antwoorden en score zo veel mogelijk punten!                           voor elke goede vraag krijgt u 1 punt.")
